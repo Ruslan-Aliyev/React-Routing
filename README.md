@@ -7,6 +7,10 @@ npm install react-router-dom
 npm start
 ```
 
+## Tutorial
+
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG
+
 ## Simple
 
 Load component instead of fetching content and refreshing page.
@@ -19,7 +23,7 @@ Load component instead of fetching content and refreshing page.
 - https://www.youtube.com/watch?v=aHv_3g2Fw8A
 - https://www.youtube.com/watch?v=XRfD8xIOroA
 
-## Code Splitting
+### Code Splitting
 
 Won't download code until it's needed.
 
