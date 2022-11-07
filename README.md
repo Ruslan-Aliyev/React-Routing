@@ -22,6 +22,7 @@ Load component instead of fetching content and refreshing page.
 
 - https://www.youtube.com/watch?v=aHv_3g2Fw8A
 - https://www.youtube.com/watch?v=XRfD8xIOroA
+- https://www.youtube.com/watch?v=jVtxC6CKzYU switch
 
 ### Code Splitting
 
@@ -33,7 +34,6 @@ Won't download code until it's needed.
 ## Others
 
 - https://www.youtube.com/watch?v=By7vJuSPaYo
-- https://www.youtube.com/watch?v=jVtxC6CKzYU switch
 
 ## More
 
